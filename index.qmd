@@ -20,6 +20,6 @@ image: profile-picture.png
 
 Hello, I'm Diane Jang, a fourth-year student at UCLA majoring in Statistics & Data Science and Applied Mathematics. My interests lie in the application of data science and actuarial services. 
 
-# CV
+## CV
 
 Attached is my current [CV](/docs/CV/Diane-Jang-CV.pdf "CV")

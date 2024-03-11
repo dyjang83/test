@@ -13,3 +13,14 @@ title: "Project Experiences"
 ## Analysis of Flight Fares (Sep 2022 - Dec 2022)
 - Led a team of five to analyze causes behind flight fare fluctuations and estiate costs of flights from LAX to US airports
 - Cleaned and filtered data via Excel and SQL and visualized insights with interactive historams and maps with R shiny
+
+## An Analysis of Distribution of Highway Fatalities (Jun 2021 - Aug 2021)
+- Explored the distribution of highway fatalities in the United States in 2019, focusing specifically on the age distribution of the drivers
+- Applied shiny, dplyr, lubridate, and leaflet libraries in R to build an interactive map where users can choose the date range of the incidents and click on individual points in the map to view specifics about each incident such as involvement of alcohol or drugs
+- Developed algorithms and functions to zoom in, zoom out, and move the map to visualize locations of highway fatalities across the US
+
+## Extension of Buffon's Needle: A Statistical Simulation (Jun 2020 - Nov 2020)
+- Wrote a research paper on a statistical simulation of separating particles of varying shapes and sizes through a sieve-like mesh
+- Extended and applied Buffon's needle experiment to non-Euclidean geometry to account for irregular shapes of granular particles
+- Implememted concepts of multivariable calculus and linear algebra to calculate the intersection probability between needle and mesh
+- Visualized intersection probabilities for particles of varying lengths in a three-dimensional setting with tables and graphs in Excel

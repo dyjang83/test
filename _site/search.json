@@ -16,14 +16,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CV",
+    "title": "Diane Jang",
     "section": "",
     "text": "Hello, I’m Diane Jang, a fourth-year student at UCLA majoring in Statistics & Data Science and Applied Mathematics. My interests lie in the application of data science and actuarial services."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "CV",
+    "title": "Diane Jang",
     "section": "",
     "text": "Hello, I’m Diane Jang, a fourth-year student at UCLA majoring in Statistics & Data Science and Applied Mathematics. My interests lie in the application of data science and actuarial services."
   },
@@ -82,5 +82,12 @@
     "title": "Project Experiences",
     "section": "Analysis of Flight Fares (Sep 2022 - Dec 2022)",
     "text": "Analysis of Flight Fares (Sep 2022 - Dec 2022)\n\nLed a team of five to analyze causes behind flight fare fluctuations and estiate costs of flights from LAX to US airports\nCleaned and filtered data via Excel and SQL and visualized insights with interactive historams and maps with R shiny"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Diane Jang",
+    "section": "CV",
+    "text": "CV\nAttached is my current CV"
   }
 ]
