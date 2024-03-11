@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Project Experiences",
-    "section": "",
-    "text": "Constructed models via box-cox transformation, forward and backward stepwise regression to study 2019 happiness score\nChose best model by comparing AIC, BIC, adjusted R-squared, performing partial F-test, and producing diagnostic plots"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Diane Jang",
@@ -26,6 +12,13 @@
     "title": "Diane Jang",
     "section": "",
     "text": "Hello, I’m Diane Jang, a fourth-year student at UCLA majoring in Statistics & Data Science and Applied Mathematics. My interests lie in the application of data science and actuarial services."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Diane Jang",
+    "section": "CV",
+    "text": "CV\nAttached is my current CV"
   },
   {
     "objectID": "work.html",
@@ -63,6 +56,13 @@
     "text": "BNP Paribas Cardif - Risk Management Intern (Jun 2022 – Sep 2022)\n\nProduced interest rate, equity models with Economic Scenario Generator and applied Martingale test for liability valuation\nEvaluated 20 operational risks through Risk Control Self-Assessment and presented results in Internal Control Committee\nConducted regression analysis on 103 Universal Life funds to determine most accurate benchmark combination for funds"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project Experiences",
+    "section": "",
+    "text": "Constructed models via box-cox transformation, forward and backward stepwise regression to study 2019 happiness score\nChose best model by comparing AIC, BIC, adjusted R-squared, performing partial F-test, and producing diagnostic plots"
+  },
+  {
     "objectID": "projects.html#world-happiness-report-analysis-jan-2023---mar-2023",
     "href": "projects.html#world-happiness-report-analysis-jan-2023---mar-2023",
     "title": "Project Experiences",
@@ -84,10 +84,17 @@
     "text": "Analysis of Flight Fares (Sep 2022 - Dec 2022)\n\nLed a team of five to analyze causes behind flight fare fluctuations and estiate costs of flights from LAX to US airports\nCleaned and filtered data via Excel and SQL and visualized insights with interactive historams and maps with R shiny"
   },
   {
-    "objectID": "index.html#cv",
-    "href": "index.html#cv",
-    "title": "Diane Jang",
-    "section": "CV",
-    "text": "CV\nAttached is my current CV"
+    "objectID": "projects.html#an-analysis-of-distribution-of-highway-fatalities-jun-2021---aug-2021",
+    "href": "projects.html#an-analysis-of-distribution-of-highway-fatalities-jun-2021---aug-2021",
+    "title": "Project Experiences",
+    "section": "An Analysis of Distribution of Highway Fatalities (Jun 2021 - Aug 2021)",
+    "text": "An Analysis of Distribution of Highway Fatalities (Jun 2021 - Aug 2021)\n\nExplored the distribution of highway fatalities in the United States in 2019, focusing specifically on the age distribution of the drivers\nApplied shiny, dplyr, lubridate, and leaflet libraries in R to build an interactive map where users can choose the date range of the incidents and click on individual points in the map to view specifics about each incident such as involvement of alcohol or drugs\nDeveloped algorithms and functions to zoom in, zoom out, and move the map to visualize locations of highway fatalities across the US"
+  },
+  {
+    "objectID": "projects.html#extension-of-buffons-needle-a-statistical-simulation-jun-2020---nov-2020",
+    "href": "projects.html#extension-of-buffons-needle-a-statistical-simulation-jun-2020---nov-2020",
+    "title": "Project Experiences",
+    "section": "Extension of Buffon’s Needle: A Statistical Simulation (Jun 2020 - Nov 2020)",
+    "text": "Extension of Buffon’s Needle: A Statistical Simulation (Jun 2020 - Nov 2020)\n\nWrote a research paper on a statistical simulation of separating particles of varying shapes and sizes through a sieve-like mesh\nExtended and applied Buffon’s needle experiment to non-Euclidean geometry to account for irregular shapes of granular particles\nImplememted concepts of multivariable calculus and linear algebra to calculate the intersection probability between needle and mesh\nVisualized intersection probabilities for particles of varying lengths in a three-dimensional setting with tables and graphs in Excel"
   }
 ]
