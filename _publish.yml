@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 06415c87-e753-4493-a1bf-d5c9a20588f0
+      url: 'diane-jang.netlify.app'
