@@ -1,4 +1,15 @@
 ---
-title: "Projects"
+title: "Project Experiences"
 ---
 
+## World Happiness Report Analysis (Jan 2023 - Mar 2023)
+- Constructed models via box-cox transformation, forward and backward stepwise regression to study 2019 happiness score
+- Chose best model by comparing AIC, BIC, adjusted R-squared, performing partial F-test, and producing diagnostic plots
+
+## Increasing Statin Prescribing in HIV Behavioral Economics Research (Mar 2022 - Aug 2022)
+- Assessed knowledge of statin and barriers to clinician prescriing and patient uptake in health clinics serving HIV patients
+- Measured effectiveness of educational intervention on statin uptake via bivariate analysis in R on feedback survey data
+
+## Analysis of Flight Fares (Sep 2022 - Dec 2022)
+- Led a team of five to analyze causes behind flight fare fluctuations and estiate costs of flights from LAX to US airports
+- Cleaned and filtered data via Excel and SQL and visualized insights with interactive historams and maps with R shiny

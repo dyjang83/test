@@ -1,0 +1,23 @@
+---
+title: "Work Experiences"
+---
+
+## KPMG LLP - Actuarial Intern (Jun 2023 – Aug 2023)
+- Performed loss development factor and loss reserving method selections for pooled auto insurance for Fortune 100 client
+- Prepared 2Q review files by generating loss development triangles, pivot tables for surety reserves analyses for P&C client
+- Updated actuarial memo by extracting tables from reserve summary file and articulating an analysis of numerical trends
+
+## Greenspan & Associates, Inc. (Apr 2023 - Jun 2023)
+- Prepared valuation reports of Profit Sharing Plans, 401(k) Plans using Actuarial Software Corporation for over 500 clients
+- Calculated benefits for Defined Benefit and Defined Contribution plans participants including annuities and distributions
+- Produced allocation reports for 50 plans on accrued benefits, lump sums, required minimum distributions, and loans
+
+## UCLA Department of Medicine Statistics Core - Student Research Assistant (Feb 2022 – Nov 2023)
+- Performed data inputting, cleaning, analyzing through R and Excel and validating via SAS to facilitate statistical analysis
+- Managed surveys and databases via electronic data capture tool REDCap to support clinical trials and medical research
+- Executed trials on external module for cross-project piping to test effectiveness and compatibility of module with project
+
+## BNP Paribas Cardif - Risk Management Intern (Jun 2022 – Sep 2022)
+- Produced interest rate, equity models with Economic Scenario Generator and applied Martingale test for liability valuation
+- Evaluated 20 operational risks through Risk Control Self-Assessment and presented results in Internal Control Committee
+- Conducted regression analysis on 103 Universal Life funds to determine most accurate benchmark combination for funds

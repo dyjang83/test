@@ -7,10 +7,80 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project Experiences",
+    "section": "",
+    "text": "Constructed models via box-cox transformation, forward and backward stepwise regression to study 2019 happiness score\nChose best model by comparing AIC, BIC, adjusted R-squared, performing partial F-test, and producing diagnostic plots"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "CV",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, I’m Diane Jang, a fourth-year student at UCLA majoring in Statistics & Data Science and Applied Mathematics. My interests lie in the application of data science and actuarial services."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "CV",
+    "section": "",
+    "text": "Hello, I’m Diane Jang, a fourth-year student at UCLA majoring in Statistics & Data Science and Applied Mathematics. My interests lie in the application of data science and actuarial services."
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work Experiences",
+    "section": "",
+    "text": "Performed loss development factor and loss reserving method selections for pooled auto insurance for Fortune 100 client\nPrepared 2Q review files by generating loss development triangles, pivot tables for surety reserves analyses for P&C client\nUpdated actuarial memo by extracting tables from reserve summary file and articulating an analysis of numerical trends"
+  },
+  {
+    "objectID": "work.html#kpmg-llp---actuarial-intern-jun-2023-aug-2023",
+    "href": "work.html#kpmg-llp---actuarial-intern-jun-2023-aug-2023",
+    "title": "Work Experiences",
+    "section": "",
+    "text": "Performed loss development factor and loss reserving method selections for pooled auto insurance for Fortune 100 client\nPrepared 2Q review files by generating loss development triangles, pivot tables for surety reserves analyses for P&C client\nUpdated actuarial memo by extracting tables from reserve summary file and articulating an analysis of numerical trends"
+  },
+  {
+    "objectID": "work.html#greenspan-associates-inc.-apr-2023---jun-2023",
+    "href": "work.html#greenspan-associates-inc.-apr-2023---jun-2023",
+    "title": "Work Experiences",
+    "section": "Greenspan & Associates, Inc. (Apr 2023 - Jun 2023)",
+    "text": "Greenspan & Associates, Inc. (Apr 2023 - Jun 2023)\n\nPrepared valuation reports of Profit Sharing Plans, 401(k) Plans using Actuarial Software Corporation for over 500 clients\nCalculated benefits for Defined Benefit and Defined Contribution plans participants including annuities and distributions\nProduced allocation reports for 50 plans on accrued benefits, lump sums, required minimum distributions, and loans"
+  },
+  {
+    "objectID": "work.html#ucla-department-of-medicine-statistics-core---student-research-assistant-feb-2022-nov-2023",
+    "href": "work.html#ucla-department-of-medicine-statistics-core---student-research-assistant-feb-2022-nov-2023",
+    "title": "Work Experiences",
+    "section": "UCLA Department of Medicine Statistics Core - Student Research Assistant (Feb 2022 – Nov 2023)",
+    "text": "UCLA Department of Medicine Statistics Core - Student Research Assistant (Feb 2022 – Nov 2023)\n\nPerformed data inputting, cleaning, analyzing through R and Excel and validating via SAS to facilitate statistical analysis\nManaged surveys and databases via electronic data capture tool REDCap to support clinical trials and medical research\nExecuted trials on external module for cross-project piping to test effectiveness and compatibility of module with project"
+  },
+  {
+    "objectID": "work.html#bnp-paribas-cardif---risk-management-intern-jun-2022-sep-2022",
+    "href": "work.html#bnp-paribas-cardif---risk-management-intern-jun-2022-sep-2022",
+    "title": "Work Experiences",
+    "section": "BNP Paribas Cardif - Risk Management Intern (Jun 2022 – Sep 2022)",
+    "text": "BNP Paribas Cardif - Risk Management Intern (Jun 2022 – Sep 2022)\n\nProduced interest rate, equity models with Economic Scenario Generator and applied Martingale test for liability valuation\nEvaluated 20 operational risks through Risk Control Self-Assessment and presented results in Internal Control Committee\nConducted regression analysis on 103 Universal Life funds to determine most accurate benchmark combination for funds"
+  },
+  {
+    "objectID": "projects.html#world-happiness-report-analysis-jan-2023---mar-2023",
+    "href": "projects.html#world-happiness-report-analysis-jan-2023---mar-2023",
+    "title": "Project Experiences",
+    "section": "",
+    "text": "Constructed models via box-cox transformation, forward and backward stepwise regression to study 2019 happiness score\nChose best model by comparing AIC, BIC, adjusted R-squared, performing partial F-test, and producing diagnostic plots"
+  },
+  {
+    "objectID": "projects.html#increasing-statin-prescribing-in-hiv-behavioral-economics-research-mar-2022---aug-2022",
+    "href": "projects.html#increasing-statin-prescribing-in-hiv-behavioral-economics-research-mar-2022---aug-2022",
+    "title": "Project Experiences",
+    "section": "Increasing Statin Prescribing in HIV Behavioral Economics Research (Mar 2022 - Aug 2022)",
+    "text": "Increasing Statin Prescribing in HIV Behavioral Economics Research (Mar 2022 - Aug 2022)\n\nAssessed knowledge of statin and barriers to clinician prescriing and patient uptake in health clinics serving HIV patients\nMeasured effectiveness of educational intervention on statin uptake via bivariate analysis in R on feedback survey data"
+  },
+  {
+    "objectID": "projects.html#analysis-of-flight-fares-sep-2022---dec-2022",
+    "href": "projects.html#analysis-of-flight-fares-sep-2022---dec-2022",
+    "title": "Project Experiences",
+    "section": "Analysis of Flight Fares (Sep 2022 - Dec 2022)",
+    "text": "Analysis of Flight Fares (Sep 2022 - Dec 2022)\n\nLed a team of five to analyze causes behind flight fare fluctuations and estiate costs of flights from LAX to US airports\nCleaned and filtered data via Excel and SQL and visualized insights with interactive historams and maps with R shiny"
   }
 ]
